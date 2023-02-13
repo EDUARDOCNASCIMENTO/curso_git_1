@@ -1,10 +1,11 @@
-a
-b
-c
+aaaa
+bbbb
+cbbb
 d
 e
 f
 g
+<<<<<<< HEAD
 h
 i
 j
@@ -28,3 +29,5 @@ z
 4
 5
 6
+=======
+>>>>>>> main
